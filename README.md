@@ -53,5 +53,6 @@ Yosys → RTL synthesis tool 🔧
 GTKWave → Simulation waveform viewer 📊
 
 With these tools, you can simulate, synthesize, and verify your design across all stages.
+-------------------------------------------------------------------------------------------------
 
 ✨ Chip design is a blend of art, engineering, and imagination. Every line of RTL you write takes you one step closer to real silicon!
